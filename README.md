@@ -18,4 +18,5 @@ Because of the steam os immutable file system, the horizon clients gets purged a
 3. `wget https://raw.githubusercontent.com/j0hnnyclaymore/horizon-client-steam-deck/main/vmware-horizon-deck-installer.sh`
 4. `chmod +x vmware-horizon-deck-installer.sh`
 5. `./vmware-horizon-deck-installer.sh`
-6. Answer all questions and enjoy!
+6. Type in your password for the steam deck user
+7. Answer all questions and enjoy!
