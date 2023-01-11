@@ -13,9 +13,9 @@ Because of the steam os immutable file system, the horizon clients gets purged a
 
 ### How do I execute it?
 
-1. download the script 
-2. open a terminal (you can press `ALT + F2 `and type `terminal` for that)
-3. `cd Downloads`
+1. open a terminal (you can press `ALT + F2 `and type `terminal` for that)
+2. `cd Downloads`
+3. `wget https://raw.githubusercontent.com/j0hnnyclaymore/horizon-client-steam-deck/main/vmware-horizon-deck-installer.sh`
 4. `chmod +x vmware-horizon-deck-installer.sh`
 5. `./vmware-horizon-deck-installer.sh`
 6. Answer all questions and enjoy!
