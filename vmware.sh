@@ -9,4 +9,3 @@ sudo ./VMware-Horizon-Client-2209-8.7.0-20616018.x64.bundle --console --required
 THEME=`kreadconfig5 --key LookAndFeelPackage`
 sudo sed -i "s/Exec=vmware-view %u/Exec=env GTK_THEME=$THEME vmware-view %u/g" /usr/share/applications/vmware-view.desktop
 sudo steamos-readonly enable
-echo -e "this is\e[92m made by deckplosion.de"
