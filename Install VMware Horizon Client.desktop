@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=sh -c 'curl -L -O --output-dir /tmp/ https://github.com/j0hnnyclaymore/horizon-client-steam-deck/releases/download/v0.1/vmware-horizon-deck-installer.sh 2> /dev/null && bash /tmp/vmware-horizon-deck-installer.sh'
+Icon=utilities-terminal
+Name[de_DE]=Install VMware Horizon Client
+Name=Install VMware Horizon Client
+StartupNotify=false
+Terminal=true
+Type=Application
