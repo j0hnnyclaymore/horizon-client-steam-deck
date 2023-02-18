@@ -15,7 +15,7 @@ Because of the steam os immutable file system, the horizon clients gets purged a
 
 #### The easy way
 
-download the .desktop file (Install VMware Horizon Client.desktop), got to your download-folder and double click on the icon, click Continue, type in your deck user password:
+download the .desktop file (here https://github.com/j0hnnyclaymore/horizon-client-steam-deck/releases/tag/v0.2), got to your download-folder and double click on the icon, click Continue, type in your deck user password:
 
 ![Howto-install](https://user-images.githubusercontent.com/11188422/211880636-59cc9bdc-b0ed-441a-b8bb-93b2263dd942.png)
 
